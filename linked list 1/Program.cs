@@ -16,7 +16,7 @@ class Program
         Console.WriteLine("5. Edit");
         Console.WriteLine("6. Print List");
         Console.WriteLine("7. Exit");
-        string input = Console.ReadLine();
+        string? input = Console.ReadLine();
         if(!int.TryParse(input, out int choice))
         {
             Console.WriteLine("Invalid input. Please enter a number.");
