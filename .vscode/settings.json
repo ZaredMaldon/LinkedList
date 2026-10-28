@@ -1,0 +1,26 @@
+{
+    "dotnet.defaultSolution": "linked list 1.sln",
+    "code-runner.runInTerminal": true,
+    "code-runner.cwd": "$workspaceRoot",
+    "code-runner.executorMap": {
+        "csharp": "dotnet run --project \"linked list 1\\linked list 1.csproj\""
+    },
+    "actionButtons": {
+        "defaultColor": "#ffffff",
+        "reloadButton": null,
+        "commands": [
+            {
+                "name": "$(play) Correr",
+                "color": "#4ec94e",
+                "singleInstance": true,
+                "command": "dotnet run --project \"linked list 1/linked list 1.csproj\""
+            },
+            {
+                "name": "$(debug-alt) Depurar",
+                "color": "#ffa500",
+                "useVsCodeApi": true,
+                "command": "workbench.action.debug.start"
+            }
+        ]
+    }
+}

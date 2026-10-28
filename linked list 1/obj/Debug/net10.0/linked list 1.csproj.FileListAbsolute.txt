@@ -1,0 +1,14 @@
+f:\Data structures\linked list\linked list 1\bin\Debug\net10.0\linked list 1.exe
+f:\Data structures\linked list\linked list 1\bin\Debug\net10.0\linked list 1.deps.json
+f:\Data structures\linked list\linked list 1\bin\Debug\net10.0\linked list 1.runtimeconfig.json
+f:\Data structures\linked list\linked list 1\bin\Debug\net10.0\linked list 1.dll
+f:\Data structures\linked list\linked list 1\bin\Debug\net10.0\linked list 1.pdb
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\linked list 1.GeneratedMSBuildEditorConfig.editorconfig
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\linked list 1.AssemblyInfoInputs.cache
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\linked list 1.AssemblyInfo.cs
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\linked list 1.csproj.CoreCompileInputs.cache
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\linked list 1.dll
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\refint\linked list 1.dll
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\linked list 1.pdb
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\linked list 1.genruntimeconfig.cache
+f:\Data structures\linked list\linked list 1\obj\Debug\net10.0\ref\linked list 1.dll
